@@ -24,7 +24,7 @@
    <project
         name="repo-projet2"
         path="projet2"
-        revision="mainu"
+        revision="main"
         remote="remote-projet2"/> 
  
 </manifest>
