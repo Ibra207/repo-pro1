@@ -21,10 +21,10 @@
         name="repo-projet1"
         path="projet1"
         revision="main"/> 
-   < project
+   <project
         name="repo-projet2"
         path="projet2"
-        revision="main"
+        revision="mainu"
         remote="remote-projet2"/> 
  
 </manifest>
