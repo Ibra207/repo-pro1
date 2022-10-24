@@ -8,7 +8,7 @@
             fetch="https://github.com/Ibra207/repo-projet1"/-->
             
     <remote  name="remote-projet2"
-            fetch="https://github.com/Ibra207/repo-projet2"/>
+            fetch="https://github.com/Ibra207"/>
    
   
   <default
