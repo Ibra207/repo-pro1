@@ -7,8 +7,8 @@
     <!--remote  name="remote-projet1"
             fetch="https://github.com/Ibra207/repo-projet1"/-->
             
-    <!--remote  name="remote-projet2"
-            fetch="https://github.com/Ibra207/repo-projet2"/-->
+    <remote  name="remote-projet2"
+            fetch="https://github.com/Ibra207/repo-projet2"/>
    
   
   <default
@@ -21,11 +21,10 @@
         name="repo-projet1"
         path="projet1"
         revision="main"/> 
-   <!--project
-        groups="name:platform/device/renault/aasp/confighub,name:platform_device_renault_aasp_confighub.git"
-        name="platform_device_renault_aasp_confighub.git"
-        path="android/platform/device/renault/aasp/confighub"
-        revision="aafw/system/s/master"
-        remote="renault"/--> 
+   < project
+        name="repo-projet2"
+        path="projet2"
+        revision="aafw"
+        remote="remote-projet2"/> 
  
 </manifest>
