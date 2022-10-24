@@ -3,7 +3,7 @@
 <manifest>
     
     <remote name="origin"
-         fetch="https://github.com/Ibra207/"/>
+         fetch="https://github.com/Ibra207"/>
 
     <!--remote  name="remote-projet1"
             fetch="https://github.com/Ibra207/repo-projet1"/-->
