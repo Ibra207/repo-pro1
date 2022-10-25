@@ -24,7 +24,7 @@
    <project
         name="repo-projet2"
         path="projet2"
-        revision="main"
+        revision="feature"
         remote="remote-projet2"/> 
  
 </manifest>
