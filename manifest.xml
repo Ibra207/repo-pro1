@@ -5,7 +5,7 @@
          fetch="https://github.com/Ibra207"/>
 
     <remote  name="remote-projet1"
-            fetch="https://github.com/Ibra207">
+            fetch="https://github.com/Ibra207"/>
             
     <remote  name="remote-projet2"
             fetch="https://github.com/Ibra207"/>
