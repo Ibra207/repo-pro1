@@ -4,8 +4,8 @@
     <remote name="origin"
          fetch="https://github.com/Ibra207"/>
 
-    <!--remote  name="remote-projet1"
-            fetch="https://github.com/Ibra207/repo-projet1"/-->
+    <remote  name="remote-projet1"
+            fetch="https://github.com/Ibra207">
             
     <remote  name="remote-projet2"
             fetch="https://github.com/Ibra207"/>
@@ -20,7 +20,8 @@
    <project
         name="repo-projet1"
         path="projet1"
-        revision="main"/> 
+        revision="feature"
+        remote="remote-projet1"/> 
    <project
         name="repo-projet2"
         path="projet2"
